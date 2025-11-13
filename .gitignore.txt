@@ -1,0 +1,10 @@
+# Ignore data files
+data/
+
+# Ignore generated plots and results
+plots/
+results/
+
+# Ignore Python/Jupyter cache files
+.ipynb_checkpoints/
+__pycache__/
